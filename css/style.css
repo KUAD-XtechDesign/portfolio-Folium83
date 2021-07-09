@@ -12,8 +12,7 @@ html {
   font-size: 62.5%;
 }
 
-html,
-body {
+html,body {
   height: 100%;
   font-feature-settings: "palt";
   background-color: #fff;
@@ -158,7 +157,7 @@ case2
   font-weight: bold;
  }
 
- #case li .content{
+ #case2 li .content{
   background-color: lime;
   flex: 1;
  }
